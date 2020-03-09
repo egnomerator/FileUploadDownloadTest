@@ -17,7 +17,7 @@ and to a much lower degree
 
 ---
 
-in lieu of a decent README file, this is a stream of stream-of-consciousness/brainstorm for me to come back to ...
+in lieu of a decent README file, this is a stream-of-consciousness/brainstorm for me to come back to ...
 
 ---
 
