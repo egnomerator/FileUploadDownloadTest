@@ -1,7 +1,15 @@
 # FileUploadDownloadTest
 POC for a resource-conscious, large-file library web API
 
-in lieu of an actual README file, this is a stream of stream-of-consciousness/brainstorm for me to come back to ...
+The focus so far has been on implementing a simple API that facilitates file upload/download with:
+
+- asynchronous request handling to facilitate many concurrent requests
+- file upload/download by streaming in chunks to use RAM more efficiently and to handle very large files
+- Kestrel max current requests set and rate limiting middleware for some protection against high load
+
+---
+
+in lieu of a decent README file, this is a stream of stream-of-consciousness/brainstorm for me to come back to ...
 
 ---
 
