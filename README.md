@@ -7,6 +7,14 @@ The focus so far has been on implementing a simple API that facilitates file upl
 - file upload/download by streaming in chunks to use RAM more efficiently and to handle very large files
 - Kestrel max current requests set and rate limiting middleware for some protection against high load
 
+Most attention so far has been on
+
+- the `FileUploadDownloadTest` web API's `FileStreamController.cs`
+
+and to a much lower degree
+
+- the `FileUploadDownloadTestWebSite` front end website's `Home/Index` view to demo the upload/download functionality
+
 ---
 
 in lieu of a decent README file, this is a stream of stream-of-consciousness/brainstorm for me to come back to ...
